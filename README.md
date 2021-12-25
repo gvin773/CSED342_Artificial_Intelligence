@@ -14,7 +14,8 @@ In this course, we will present the relevant core subjects and discuss various i
 2. Particle Filtering 기법도 적용해봄
 
 ### Assignment3 - Sentiment Analysis
-1. ?
+1. Hinge Loss, Stochastic gradient descent 이해
+2. Logistic regression을 활용하여 Sentiment Classification 문제 해결
 
 ### Assignment4 - K-Means Clustering
 1. ?
