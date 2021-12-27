@@ -18,4 +18,5 @@ In this course, we will present the relevant core subjects and discuss various i
 2. Logistic regression을 활용하여 Sentiment Classification 문제 해결
 
 ### Assignment4 - K-Means Clustering
-1. ?
+1. K-Means Clustering 활용하여 data points 분류
+2. Soft K-Means Clustering 활용하여 data points 분류
